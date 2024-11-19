@@ -18,3 +18,4 @@ def main():
     print(mul(a,b))
     print(div(a,b))
 
+print("Yoooooooooooooooooo")
